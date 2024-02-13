@@ -1,6 +1,6 @@
 ## CS6704 Requirements Workshop
 
-Team Members: Shawal Khalid, Xiaoxiao Gan, Brinto
+Team Members: Shawal Khalid, Xiaoxiao Gan, Dibyendu Brinto Bose
 
 Complete the following activities for the requirements workshop in-class today: 
 
